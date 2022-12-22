@@ -7,26 +7,27 @@
 - salt
 - garlic (3-5 cloves)
 - 1 cup of dried chick peas
-- 2-3 bay leaves
+- 1 bay leaf
 - baking soda
-- 1/2 tbsp ground cumin
-- 1/2 tbsp ground coriander
+- 1/2 tbsp cumin seeds, toasted, ground
+- 1/2 tbsp coriander, toasted, ground
 
 ## Tahini
 - 6 tbsp sesame seeds
     - lightly toasted
     - ground in mortar and pestle
-    - add a fair bit of olive oil and blend until gooey texture
+    - add a fair bit of olive oil and some bean juice, blend until gooey texture
     - squeeze a bunch of lemon juice (at least 1/2 a big boi)
-    - crush garlic in mortar and pestle and add as well
-    - 1/2 tbsp ground cumin
-    - 1/2 tbsp ground coriander
+    - crush 3-5 cloves garlic in mortar and pestle w/ salt and add as well
+    - 1/2 tbsp cumin seeds, toasted, ground
+    - 1/2 tbsp coriander seeds, toasted, ground
 
 ## Beans
 - 1 cup dried chick peas, soaked overnight
-- pressure cook on high for 25 min
+- pressure cook on high for 25 min, natural release for 20
     - ~1/8 tsp baking soda
-    - ~ 1tsp salt
-    - a few bay leaves
+    - ~2 tsp salt
+    - 1 bay leaf
+    - ~3 cups water
 
 drain and combine beans w/ tahini, blend
